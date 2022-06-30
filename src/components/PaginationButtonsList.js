@@ -19,7 +19,7 @@ const PaginationButtonsList = () => {
     16,
     17,
     18,
-    19.2
+    19,20
   ];
   return (
     <div className="pagination-buttons-list">
